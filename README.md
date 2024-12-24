@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Melckykaisha
+- 👋 Hi, I’m Melckzedek KIrya Kaisha
 - 👀 I’m interested in python programming in data analysis
 - 🌱 I’m currently learning second levels in urniversity of Meru
 - 💞️ I’m looking to collaborate on pandas projects
-- 📫 How to reach me ...kiryamelckzedek@students.must.ac.ke
+- 📫 How to reach me ...kiryamelckzezedek@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
