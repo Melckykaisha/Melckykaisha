@@ -5,7 +5,7 @@
 **Data Scientist · AI/ML Engineer · Applied Researcher**
 
 [![Email](https://img.shields.io/badge/Email-kiryamelckzezedek%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:kiryamelckzezedek@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirya-melckzedek-kaisha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
