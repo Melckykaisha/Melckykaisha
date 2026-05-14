@@ -60,9 +60,9 @@ I work primarily across **NLP**, **computer vision**, **time-series forecasting*
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melckykaisha&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Melckykaisha&show_icons=true&theme=dark&hide_border=true&count_private=true)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melckykaisha&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Melckykaisha&layout=compact&theme=dark&hide_border=true)
 
 </div>
 ---
