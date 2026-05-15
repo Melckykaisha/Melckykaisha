@@ -33,7 +33,7 @@ I work primarily across **NLP**, **computer vision**, **time-series forecasting*
 
 ---
 
-## Tech Stack
+## Tech Stack.
 
 **AI & Data Science**
 
