@@ -26,7 +26,7 @@ I work primarily across **NLP**, **computer vision**, **time-series forecasting*
 |--------|-------------|-------|
 | [**Ujuzi AI**](#) | AI-powered career guidance platform with personalised recommendations | Google Gemini · Next.js · Supabase |
 | [**Kenya Weather Forecasting**](#) | Deep learning models for multi-step weather prediction | LSTM · GRU · ConvLSTM · Python |
-| [**Movie Recommender System**](#) | Hybrid recommendation engine using TF-IDF similarity | Python · Scikit-learn · Pandas |
+| [**Movie Recommender System**](https://github.com/Melckykaisha/Hybrid_Movie_Recommender) | Hybrid recommendation engine using TF-IDF similarity | Python · Scikit-learn · Pandas |
 | [**Dharura AI**](#) | Real-time AI emergency reporting and analytics platform | Next.js · Supabase · Firebase |
 | [**Emotion & Expression Recognition**](#) | CNN and NLP-based multi-class emotion classification | TensorFlow · OpenCV · Python |
 | [**Synthetic Data Generation**](#) | GAN and VAE implementations for tabular and image data synthesis | TensorFlow · PyTorch · Python |
